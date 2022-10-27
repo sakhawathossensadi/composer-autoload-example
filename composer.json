@@ -1,0 +1,17 @@
+{
+    "name": "learn/composer-autoload",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sakhawathossensadi",
+            "email": "newtonss919@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Learn\\Composer\\": "src/"
+        }
+    }
+}
